@@ -54,8 +54,8 @@ pwd
 pwd
 pwd
 pwd
-wget -O config.env paste config env url
-wget -O token.pickle https://github.com/yourusername/reponame/raw/main/token.pickle
+wget -O config.env paste config env url https://gist.githubusercontent.com/atanu1615/f086a81587b8adbf6eab2b218d716590/raw/config.env
+wget -O token.pickle https://raw.githubusercontent.com/atanu1615/okteto2/main/token.pickle?token=GHSAT0AAAAAABUSOMNHBA3FYEU5CRHCDCJ2YUATGMQ
 rin
 bash sta*
 
