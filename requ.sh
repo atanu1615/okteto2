@@ -19,7 +19,7 @@ pip install pillow
 pip install psutil
 pip install psycopg2-binary
 pip install pybase64
-pip install pyrogram==1.4.16
+pip install pyrogram
 pip install python-dotenv
 pip install python-magic
 pip install python-telegram-bot
@@ -54,7 +54,7 @@ pwd
 pwd
 pwd
 pwd
-wget -O config.env paste config env url https://gist.githubusercontent.com/atanu1615/f086a81587b8adbf6eab2b218d716590/raw/config.env
+wget -O config.env paste config env url https://raw.githubusercontent.com/atanu1615/okteto2/main/config.env
 wget -O token.pickle https://raw.githubusercontent.com/atanu1615/okteto2/main/token.pickle
 rin
 bash sta*
